@@ -1,150 +1,150 @@
 # 50-great-websites-for-web-developers
-Hidden Tools -
+1.Hidden Tools -
 https://hiddentools.dev/
 
-Music For Programming -
+2.Music For Programming -
 https://musicforprogramming.net/
 
-Programming Language Convertor -
+3.Programming Language Convertor -
 https://ide.onelang.io/
 
-HTTP Cat -
+4.HTTP Cat -
 https://http.cat/ 
 
-Iconscout -
+5.Iconscout -
 https://iconscout.com/
 
-CSS Zen Garden -
+6.CSS Zen Garden -
 http://www.csszengarden.com/
 
-A List Apart -
+7.A List Apart -
 https://alistapart.com/
 
-Code Project -
+8.Code Project -
 https://www.codeproject.com/
 
-Scotch -
+9.Scotch -
 https://scotch.io/
 
-TutsPlus -
+10.TutsPlus -
 https://tutsplus.com/
 
-Creative Blog -
+11.Creative Blog -
 https://www.creativebloq.com/
 
-Codrops -
+12.Codrops -
 Codrops | Creative front-end resources and inspiration for web professionals
 
-MDN Web Docs -
+13.MDN Web Docs -
 MDN Web Docs
 
-The Odin Project -
+14.The Odin Project -
 https://www.theodinproject.com/
 
-Code Wars -
+15.Code Wars -
 https://www.codewars.com/
 
-WpSessions -
+16.WpSessions -
 https://wpsessions.com/
 
-CSS Autor -
+17.CSS Autor -
 https://cssauthor.com/
 
-Laracasts -
+18.Laracasts -
 https://laracasts.com/
 
-Web Design News -
+19.Web Design News -
 https://www.webdesignernews.com/
 
-UX Movement -
+20.UX Movement -
 https://uxmovement.com/
 
-Gradient Magic -
+21.Gradient Magic -
 https://www.gradientmagic.com/
 
-Trianglify -
+22.Trianglify -
 https://trianglify.io/
 
-CSS Tricks -
+23.CSS Tricks -
 https://css-tricks.com/
 
-Free Frontend -
+24.Free Frontend -
 https://freefrontend.com/
 
-Code My UI -
+25.Code My UI -
 https://codemyui.com/
 
-CSS Reference -
+26.CSS Reference -
 https://cssreference.io/
 
-HTML Reference -
+27.HTML Reference -
 https://htmlreference.io/
 
-Frontend Mentor -
+28.Frontend Mentor -
 https://www.frontendmentor.io/ 
 
-Site Point -
+29.Site Point -
 https://www.sitepoint.com/
 
-Free CSS -
+30.Free CSS -
 https://www.free-css.com/
 
-Awesome Python -
+31.Awesome Python -
 https://pythonawesome.com/
 
-Fun JavaScript Projects -
+32.Fun JavaScript Projects -
 https://fun-javascript-projects.com/
 
-Daily Dev -
+33.Daily Dev -
 https://daily.dev/
 
-Dev Docs -
+34.Dev Docs -
 https://devdocs.io/
 
-ShortCode Dev -
+35.ShortCode Dev -
 https://shortcode.dev/
 
-What Runs -
+36.What Runs -
 https://www.whatruns.com/
 
-1LOC -
+37.1LOC -
 https://1loc.dev/
 
-Web Code Tools -
+38.Web Code Tools -
 https://webcode.tools/
 
-Am i Responsive -
+39.Am i Responsive -
 http://ami.responsivedesign.is/
 
-Shape Divider -
+40.Shape Divider -
 https://www.shapedivider.app/
 
-Fancy Border Radius -
+41.Fancy Border Radius -
 Fancy Border Radius Generator
 
-CSS Gradient -
+42.CSS Gradient -
 https://cssgradient.io/
 
-CSS Clip Path -
+43.CSS Clip Path -
 Clippy — CSS clip-path maker
 
-CSS Layout -
+44.CSS Layout -
 https://csslayout.io/
 
-30 Seconds Of Code -
+45.30 Seconds Of Code -
 https://www.30secondsofcode.org/
 
-Undraw -
+46.Undraw -
 https://undraw.co/
 
-Humaaans -
+47.Humaaans -
 https://www.humaaans.com/
 
-W3 Layouts -
+48.W3 Layouts -
 https://w3layouts.com/
 
-Templatemo -
+49.Templatemo -
 https://templatemo.com/ 
 
-Tooplate -
+50.Tooplate -
 https://www.tooplate.com/
